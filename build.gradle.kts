@@ -13,7 +13,7 @@ plugins {
 }
 
 // Set as appropriate for your organization
-group = "com.yourorg"
+group = "com.github.dbeaumont"
 description = "Rewrite recipes."
 
 recipeDependencies {
